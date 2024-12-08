@@ -30,9 +30,6 @@ This repository contains a **Healthcare DLT Pipeline** implemented using Databri
    - `patient_statistics_by_diagnosis`: Aggregates patient counts, average age, etc., by diagnosis.  
    - `patient_statistics_by_gender`: Aggregates statistics by gender.  
 
-## Repository Structure  
-
-
 ## Prerequisites  
 - Databricks workspace with DLT enabled.  
 - GCP Bucket access for data storage.  
